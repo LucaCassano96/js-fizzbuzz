@@ -12,7 +12,7 @@ let text;
         text = "FizzBuzz";
         console.log( "FizzBuzz" );
         
-       }
+    }
     
    else if(i % 3 === 0){
         text = "Fizz";
@@ -23,8 +23,8 @@ let text;
    else if(i % 5 === 0){
     text = "Buzz";
     console.log( "Buzz" );
-    
-    }
+
+}
 
    else{
     text = i;
