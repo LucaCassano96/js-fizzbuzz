@@ -29,9 +29,24 @@ h1{
     width: 100px;
     height: 100px;
     margin: 10px;
-    background-color: rgb(41, 41, 230);
     display: flex;
     justify-content: center;
     align-items: center;
     color: #fff;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
 }
